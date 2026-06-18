@@ -3,6 +3,13 @@
 ## About
 This repository contains all projects completed during my Data Analytics internship at DecodeLabs.
 
+## Project 1 — Data Cleaning & Preparation
+- Dataset: 1,200 order records with 14 columns
+- Identified and handled missing/null values using strategic imputation
+- Removed duplicate records to ensure data integrity
+- Corrected data formats (dates, numbers, text)
+- Output: A fully cleaned, production-ready dataset
+
 ## Project 2 — Exploratory Data Analysis (EDA)
 - Dataset: 1,500 product sales transactions across 5 regions and 7 products
 - Cleaned 370 missing values in the Promotion column
@@ -19,6 +26,6 @@ This repository contains all projects completed during my Data Analytics interns
 - Key Finding: Chair and Printer lead revenue, Instagram is the top referral source
 
 ## Tools Used
-- Microsoft Excel (EDA, Pivot Tables, Statistics)
+- Microsoft Excel (Data Cleaning, EDA, Pivot Tables, Statistics)
 - SQLite Online (SQL Queries)
 - GitHub (Version Control)
