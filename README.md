@@ -23,9 +23,36 @@ This repository contains all projects completed during my Data Analytics interns
 - Dataset: 1,200 order records with 14 columns
 - Wrote SQL queries using SELECT, WHERE, GROUP BY, ORDER BY
 - Used aggregations: COUNT, SUM, AVG
+
+## Project 4 — Data Visualization (Optional)
+
+Dataset: Dataset_for_Data_Analytics.xlsx (1,200 rows)
+
+Created visual representations of the data to communicate insights clearly.
+
+What I did:
+
+
+Built a Bar Chart showing Total Sales by Region
+Built a Line Chart showing Monthly Sales Trend over time
+Built a Pie Chart showing Sales breakdown by Payment Method
+Added key business insights under each chart
+
+
+Tools: Excel
 - Key Finding: Chair and Printer lead revenue, Instagram is the top referral source
 
 ## Tools Used
 - Microsoft Excel (Data Cleaning, EDA, Pivot Tables, Statistics)
+
+- Skills Demonstrated
+
+
+Data Cleaning & Preparation
+Exploratory Data Analysis
+SQL Querying
+Data Visualization
+Excel (Pivot Tables, Charts, Formulas)
+Python & Pandas
 - SQLite Online (SQL Queries)
 - GitHub (Version Control)
